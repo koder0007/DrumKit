@@ -1,0 +1,113 @@
+body{
+  justify-content: center;
+  text-align: center;
+  font-family: 'Sassy Frass', cursive;; background-color: rgba(255, 168, 76, 0.785);
+  
+  /* rgba(255, 168, 76, 0.785) */
+ 
+  
+}
+
+
+
+
+.w{
+     background: url(images/images\ \(1\).png);
+     background-position: center;
+     background-size: cover;
+   }
+
+
+.a {
+  background: url(images/images\ \(2\).png);
+  background-position: center;
+  background-size: cover;
+}
+
+.s {
+  background: url(images/images\ \(3\).png);
+  background-position: center;
+  background-size: cover;
+}
+
+.d {
+  background: url(images/drum-clip-art-cartoon-vector-1504009.jpg);
+  background-position: center;
+  background-size: cover;
+  background-position: 0px 4px;
+}
+
+.l {
+  background: url(images/images\ \(4\).png);
+  background-position: center;
+  background-size: cover;
+  background-position: 0px 4px;
+}
+
+.k {
+  background: url(images/bass-drum-icon-design-vector.jpg);
+  background-position: center;
+  background-size: cover;
+  background-position: 0px 4px;
+}
+
+.j {
+  background: url(images/crash.png);
+}
+
+h1{
+  display: inline-flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 70px;
+  text-shadow: 0px 0px 2px #fc492d;
+  margin-bottom: 100px;
+}
+h1 img{
+  margin:0px 20px;
+  border: 1.5px solid black;
+}
+.drum{
+ 
+  color: rgba(0, 0, 0, 0.847);
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  display:inline-flex;
+ justify-content: center;
+ text-align: center;
+ line-height: 1;
+ font-size: 100px;
+ font-family: 'Sassy Frass', cursive;;
+ text-shadow: 0px 0px 5px rgb(255, 65, 65);
+ box-shadow: 0px 0px 10px #fc492d;  /* #fc492d */
+margin-bottom: 85px;
+margin-left: 5px;
+
+}
+.set{
+  justify-content: center;
+  text-align: center;
+  
+}
+
+footer{
+  font-size: 50px;
+  text-shadow: 0px 0px 1px #fc492d;
+}
+
+
+.animation{
+ 
+  transform: rotate(25deg) scale(0.88) ;
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+h1 img:hover{
+  transform: rotate(36deg) scale(0.80)
+  
+ 
+}
+
+
+
